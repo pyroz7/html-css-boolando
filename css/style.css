@@ -1,0 +1,45 @@
+/*RESET*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.titolo{
+    
+    
+
+
+}
+
+
+
+body {
+    font-family: 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.box-container {
+    padding: 50px 0;
+}
+
+.container-flex {
+    display: flex;
+    max-width: 1300px;
+    margin: 0 auto;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+h2 {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
+
+
